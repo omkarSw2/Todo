@@ -1,4 +1,6 @@
 # Todo
 **Deployed link :** https://omkartodo.netlify.app/
 
-"Introducing our efficient and reliable todo app with built-in caching capabilities. Stay organized and productive, even when offline. Our app intelligently caches your tasks, ensuring you can access and update them seamlessly, regardless of your internet connection. Say goodbye to disruptions and never miss a beat with our todo app's robust caching system. Experience uninterrupted productivity and stay in control of your tasks, whether you're online or offline."
+"Introducing our Todo Web App – the ultimate solution for efficient task management. With an intuitive interface, customizable organization features, and seamless collaboration capabilities, staying on top of your to-do list has never been easier."
+![Screenshot 2023-12-08 122634](https://github.com/omkarSw2/Todo/assets/119350956/574d6d90-a68e-4d42-9310-43c754b600b6)
+![Screenshot 2023-12-08 122646](https://github.com/omkarSw2/Todo/assets/119350956/1424983c-8b18-4809-ab1c-0da9cb92ad74)
